@@ -1,7 +1,7 @@
 # micrograd-php
 A PHP implementation of Andrej Karpathy's micrograd Autograd engine. 
 
-## Usage Example
+## Usage
 ```php
 $nn = new MLP(2, [3, 1]);
 $xs = [
