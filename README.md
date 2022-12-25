@@ -1,5 +1,5 @@
 # micrograd-php
-A PHP implementation of Andrej Karpathy's micrograd Autograd engine. 
+A PHP implementation of Andrej Karpathy's micrograd autograd engine. 
 
 ## Usage
 ```php
